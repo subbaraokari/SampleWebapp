@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b837b69-c5a0-4dd2-a07d-fe92b86c2ef9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Vv1HOPEE7EIiBUBcPOLkrZmF0G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SampleWebappApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SampleWebapp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cts.SampleWebapp.SampleWebappApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b837b69-c5a0-4dd2-a07d-fe92b86c2ef9" name="Default Changelist" comment="" />
+      <created>1578118665834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578118665834</updated>
+      <workItem from="1578118683298" duration="4555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="281" width="356" height="166" key="Github.CreateGistDialog" timestamp="1578123147059">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="281" width="356" height="166" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1578123147059" />
+    <state x="546" y="258" key="Github.ShareDialog" timestamp="1578128508779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="546" y="258" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1578128508779" />
+    <state x="508" y="70" key="Github.UntrackedFilesDialog" timestamp="1578128521383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="508" y="70" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578128521383" />
+    <state width="1323" height="95" key="GridCell.Tab.0.bottom" timestamp="1578122267408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="95" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578122267408" />
+    <state width="1323" height="95" key="GridCell.Tab.0.center" timestamp="1578122267408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="95" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578122267408" />
+    <state width="1323" height="95" key="GridCell.Tab.0.left" timestamp="1578122267408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="95" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578122267408" />
+    <state width="1323" height="95" key="GridCell.Tab.0.right" timestamp="1578122267408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="95" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578122267408" />
+    <state x="348" y="64" key="NewModule_or_Project.wizard" timestamp="1578123371886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="64" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1578123371886" />
+    <state x="92" y="92" width="1182" height="544" key="ShowDiffWithBranchDialog" timestamp="1578128631362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="ShowDiffWithBranchDialog/0.0.1366.728@0.0.1366.728" timestamp="1578128631362" />
+  </component>
+</project>
